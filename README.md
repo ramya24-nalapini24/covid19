@@ -1,2 +1,2 @@
 # covid19
-covid is a infectious virus added
+covid is a infectious virus 
